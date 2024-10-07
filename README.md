@@ -1,6 +1,7 @@
 # Cyber Language
-[Ru]([https://www.gnu.org/licenses/old-licenses/gpl-2.0.html](https://github.com/Vertex-Production/Cyber/blob/master/README%20ru.md)).
-translation from Russian
+[Rus version](Readme%20ru.md)
+
+Translation from Russian
 **⚠️IMPORTANT NOTE:** The Cyber ​​language is currently under development and cannot be used for any purpose.⚠️
 
 ## Description
