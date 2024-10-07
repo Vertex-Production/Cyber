@@ -1,0 +1,14 @@
+using System;
+
+fn int Main() {
+	Console.WriteLine("Hello World!");
+	Write(0, 10);
+	return 0;
+}
+fn void Write(int a, int b) {
+	for (var s : a => b) {
+		Console.WriteLine(s);
+	}
+	Console.WriteLine("End function \"Write\"!");
+	Console.WriteLine('_');
+}
